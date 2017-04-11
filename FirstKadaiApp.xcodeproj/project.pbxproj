@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					193B51311E9CC49D00C7C77D = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = EGDW5FKM77;
 						ProvisioningStyle = Automatic;
 					};
 					193B51451E9CC49D00C7C77D = {
@@ -410,6 +411,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EGDW5FKM77;
 				INFOPLIST_FILE = FirstKadaiApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.hiroyuki.okinoi.FirstKadaiApp;
@@ -422,6 +424,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = EGDW5FKM77;
 				INFOPLIST_FILE = FirstKadaiApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = jp.techacademy.hiroyuki.okinoi.FirstKadaiApp;
